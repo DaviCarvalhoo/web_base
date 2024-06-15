@@ -1,0 +1,15 @@
+/* css puro */
+
+li {
+  display: inline;
+}
+li a:hover{
+  color: white;
+  background-color:rgb(33, 33, 82);
+  border-radius: 5px;
+}
+li a{
+  padding: 5px;
+  color: blue;
+  text-decoration: none;
+}
